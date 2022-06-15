@@ -1,0 +1,13 @@
+/* 以下自定义全局CSS */
+.infinite-loading {
+  margin-bottom: 0;
+}
+
+ion-infinite-scroll-content {
+  min-height: 50px;
+}
+
+.infinite-scroll-loading ion-infinite-scroll-content>.infinite-loading {
+  display: flex;
+  justify-content: center;
+}

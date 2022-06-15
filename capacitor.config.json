@@ -1,0 +1,6 @@
+{
+	"appId": "com.caesar.bonfire",
+	"appName": "bonfire-h5",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
